@@ -1,0 +1,16 @@
+{
+  "name": "insect-adventures-kit",
+  "version": "1.0.0",
+  "description": "Write fun, accurate, kid-friendly insect video scripts with a hook, a science fact check, and a short quiz.",
+  "author": {
+    "name": "Insect Adventures"
+  },
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "kids",
+    "insects",
+    "scripts",
+    "youtube"
+  ]
+}
